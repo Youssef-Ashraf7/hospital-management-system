@@ -1,0 +1,30 @@
+# Hospital Management System
+
+## Overview
+
+A simple hospital management system developed using Java and Object-Oriented Programming concepts. The project includes basic GUI elements and focuses on managing hospital entities such as patients and doctors.
+
+## Features
+
+* user Roles (Admin, Patient, Doctor, etc..)
+* Basic GUI interface
+* OOP-based structure
+
+## Technologies Used
+
+* Java
+* Object-Oriented Programming (OOP)
+* GUI Development
+
+## My Contribution
+
+I worked on building the core OOP structure, including classes such as Patient and Doctor, and contributed to the basic system implementation.
+
+## Learning Outcomes
+
+Through this project, I improved my understanding of:
+
+* OOP concepts
+* Java programming
+* System structure design
+* Team collaboration
